@@ -1,6 +1,6 @@
 cask "dusty" do
-  version "2.5.0"
-  sha256 "3fd3bdfe79b8a491e9516b11989a167fd977e691381261e517cfc636eaa49338"
+  version "2.5.1"
+  sha256 "cc34bbbe84deaaaddda2af2a0bd7f05bce6821a16322618a8385649fcec18b1f"
 
   url "https://github.com/theappcenter/homebrew-tap/releases/download/v#{version}/Dusty.zip"
   name "Dusty"
